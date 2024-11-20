@@ -1,0 +1,6 @@
+@QuestionarioAPI.API_HostAddress = http://localhost:5278
+
+GET {{QuestionarioAPI.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

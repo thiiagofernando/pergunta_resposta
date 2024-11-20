@@ -1,0 +1,17 @@
+/Users/thiagofernando/dev/QuestionarioAPI/QuestionarioAPI.Infrastructure/bin/Debug/net8.0/QuestionarioAPI.Infrastructure.deps.json
+/Users/thiagofernando/dev/QuestionarioAPI/QuestionarioAPI.Infrastructure/bin/Debug/net8.0/QuestionarioAPI.Infrastructure.dll
+/Users/thiagofernando/dev/QuestionarioAPI/QuestionarioAPI.Infrastructure/bin/Debug/net8.0/QuestionarioAPI.Infrastructure.pdb
+/Users/thiagofernando/dev/QuestionarioAPI/QuestionarioAPI.Infrastructure/bin/Debug/net8.0/QuestionarioAPI.Domain.dll
+/Users/thiagofernando/dev/QuestionarioAPI/QuestionarioAPI.Infrastructure/bin/Debug/net8.0/QuestionarioAPI.Domain.pdb
+/Users/thiagofernando/dev/QuestionarioAPI/QuestionarioAPI.Infrastructure/obj/Debug/net8.0/QuestionarioAPI.Infrastructure.csproj.AssemblyReference.cache
+/Users/thiagofernando/dev/QuestionarioAPI/QuestionarioAPI.Infrastructure/obj/Debug/net8.0/QuestionarioAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thiagofernando/dev/QuestionarioAPI/QuestionarioAPI.Infrastructure/obj/Debug/net8.0/QuestionarioAPI.Infrastructure.AssemblyInfoInputs.cache
+/Users/thiagofernando/dev/QuestionarioAPI/QuestionarioAPI.Infrastructure/obj/Debug/net8.0/QuestionarioAPI.Infrastructure.AssemblyInfo.cs
+/Users/thiagofernando/dev/QuestionarioAPI/QuestionarioAPI.Infrastructure/obj/Debug/net8.0/QuestionarioAPI.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/thiagofernando/dev/QuestionarioAPI/QuestionarioAPI.Infrastructure/obj/Debug/net8.0/Question.8A30ED7B.Up2Date
+/Users/thiagofernando/dev/QuestionarioAPI/QuestionarioAPI.Infrastructure/obj/Debug/net8.0/QuestionarioAPI.Infrastructure.dll
+/Users/thiagofernando/dev/QuestionarioAPI/QuestionarioAPI.Infrastructure/obj/Debug/net8.0/refint/QuestionarioAPI.Infrastructure.dll
+/Users/thiagofernando/dev/QuestionarioAPI/QuestionarioAPI.Infrastructure/obj/Debug/net8.0/QuestionarioAPI.Infrastructure.pdb
+/Users/thiagofernando/dev/QuestionarioAPI/QuestionarioAPI.Infrastructure/obj/Debug/net8.0/ref/QuestionarioAPI.Infrastructure.dll
+/Users/thiagofernando/dev/QuestionarioAPI/QuestionarioAPI.Infrastructure/bin/Debug/net8.0/QuestionarioAPI.Infrastructure.runtimeconfig.json
+/Users/thiagofernando/dev/QuestionarioAPI/QuestionarioAPI.Infrastructure/obj/Debug/net8.0/QuestionarioAPI.Infrastructure.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+/Users/thiagofernando/dev/QuestionarioAPI/QuestionarioAPI.Domain/bin/Debug/net8.0/QuestionarioAPI.Domain.deps.json
+/Users/thiagofernando/dev/QuestionarioAPI/QuestionarioAPI.Domain/bin/Debug/net8.0/QuestionarioAPI.Domain.dll
+/Users/thiagofernando/dev/QuestionarioAPI/QuestionarioAPI.Domain/bin/Debug/net8.0/QuestionarioAPI.Domain.pdb
+/Users/thiagofernando/dev/QuestionarioAPI/QuestionarioAPI.Domain/obj/Debug/net8.0/QuestionarioAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thiagofernando/dev/QuestionarioAPI/QuestionarioAPI.Domain/obj/Debug/net8.0/QuestionarioAPI.Domain.AssemblyInfoInputs.cache
+/Users/thiagofernando/dev/QuestionarioAPI/QuestionarioAPI.Domain/obj/Debug/net8.0/QuestionarioAPI.Domain.AssemblyInfo.cs
+/Users/thiagofernando/dev/QuestionarioAPI/QuestionarioAPI.Domain/obj/Debug/net8.0/QuestionarioAPI.Domain.csproj.CoreCompileInputs.cache
+/Users/thiagofernando/dev/QuestionarioAPI/QuestionarioAPI.Domain/obj/Debug/net8.0/QuestionarioAPI.Domain.dll
+/Users/thiagofernando/dev/QuestionarioAPI/QuestionarioAPI.Domain/obj/Debug/net8.0/refint/QuestionarioAPI.Domain.dll
+/Users/thiagofernando/dev/QuestionarioAPI/QuestionarioAPI.Domain/obj/Debug/net8.0/QuestionarioAPI.Domain.pdb
+/Users/thiagofernando/dev/QuestionarioAPI/QuestionarioAPI.Domain/obj/Debug/net8.0/ref/QuestionarioAPI.Domain.dll
